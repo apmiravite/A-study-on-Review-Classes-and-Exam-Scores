@@ -9,6 +9,8 @@ Students can also opt to study on their own and not join the study sessions (Con
 
 Ten study sessions will be able to cover all the topics for the exam. Five study sessions will be able to cover approximately half of the topics in the exam. (It is expected that the student will be self-studying the topics that will not be covered by the 5 sessions.) The study sessions also include assessments at the end of each lesson so the students can know what area/s they need to improve on.
 
+We want to see if the study sessions has an effect on the test scores of the participants. 
+
 
 
 
