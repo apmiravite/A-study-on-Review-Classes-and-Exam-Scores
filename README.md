@@ -14,7 +14,7 @@ We want to see if the study sessions has an effect on the test scores of the par
 ## Data
 
 The original dataset has five columns.
-1. Treatment: whether the student attended the 10-session (b1)/ 5-session (b2) review class or studied on their own (control).
+1. Treatment: whether the student attended the 10-session (b1)/ 5-session (b2) review class or studied on their own.
 2. Student code: A unique identifier for a student, consists of a combination of the age group and treatment code and a random 3-digit number at the end.
 3. Age group of the student
 4. Gender of the student
